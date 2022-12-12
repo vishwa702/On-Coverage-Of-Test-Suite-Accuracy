@@ -1,0 +1,1 @@
+select distinct singer.country from singer where  singer.age  >=  20 and age < 53
